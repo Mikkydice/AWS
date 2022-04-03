@@ -1,0 +1,7 @@
+C:\Users\Mikky\OneDrive\Desktop\AWS\Switch_case\obj\Debug\Switch_case.csproj.AssemblyReference.cache
+C:\Users\Mikky\OneDrive\Desktop\AWS\Switch_case\obj\Debug\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Mikky\OneDrive\Desktop\AWS\Switch_case\bin\Debug\Switch_case.exe.config
+C:\Users\Mikky\OneDrive\Desktop\AWS\Switch_case\bin\Debug\Switch_case.exe
+C:\Users\Mikky\OneDrive\Desktop\AWS\Switch_case\bin\Debug\Switch_case.pdb
+C:\Users\Mikky\OneDrive\Desktop\AWS\Switch_case\obj\Debug\Switch_case.exe
+C:\Users\Mikky\OneDrive\Desktop\AWS\Switch_case\obj\Debug\Switch_case.pdb
