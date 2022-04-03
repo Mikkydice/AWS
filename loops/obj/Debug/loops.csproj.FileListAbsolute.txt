@@ -1,0 +1,6 @@
+C:\Users\Mikky\OneDrive\Desktop\AWS\loops\bin\Debug\loops.exe.config
+C:\Users\Mikky\OneDrive\Desktop\AWS\loops\bin\Debug\loops.exe
+C:\Users\Mikky\OneDrive\Desktop\AWS\loops\bin\Debug\loops.pdb
+C:\Users\Mikky\OneDrive\Desktop\AWS\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\Mikky\OneDrive\Desktop\AWS\loops\obj\Debug\loops.exe
+C:\Users\Mikky\OneDrive\Desktop\AWS\loops\obj\Debug\loops.pdb
