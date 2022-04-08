@@ -1,0 +1,6 @@
+C:\Users\Mikky\OneDrive\Desktop\AWS\fruit and array\bin\Debug\fruit and array.exe.config
+C:\Users\Mikky\OneDrive\Desktop\AWS\fruit and array\bin\Debug\fruit and array.exe
+C:\Users\Mikky\OneDrive\Desktop\AWS\fruit and array\bin\Debug\fruit and array.pdb
+C:\Users\Mikky\OneDrive\Desktop\AWS\fruit and array\obj\Debug\fruit and array.csproj.CoreCompileInputs.cache
+C:\Users\Mikky\OneDrive\Desktop\AWS\fruit and array\obj\Debug\fruit and array.exe
+C:\Users\Mikky\OneDrive\Desktop\AWS\fruit and array\obj\Debug\fruit and array.pdb

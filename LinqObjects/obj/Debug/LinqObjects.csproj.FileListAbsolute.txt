@@ -1,0 +1,7 @@
+C:\Users\Mikky\OneDrive\Desktop\AWS\LinqObjects\bin\Debug\LinqObjects.exe.config
+C:\Users\Mikky\OneDrive\Desktop\AWS\LinqObjects\bin\Debug\LinqObjects.exe
+C:\Users\Mikky\OneDrive\Desktop\AWS\LinqObjects\bin\Debug\LinqObjects.pdb
+C:\Users\Mikky\OneDrive\Desktop\AWS\LinqObjects\obj\Debug\LinqObjects.csproj.AssemblyReference.cache
+C:\Users\Mikky\OneDrive\Desktop\AWS\LinqObjects\obj\Debug\LinqObjects.csproj.CoreCompileInputs.cache
+C:\Users\Mikky\OneDrive\Desktop\AWS\LinqObjects\obj\Debug\LinqObjects.exe
+C:\Users\Mikky\OneDrive\Desktop\AWS\LinqObjects\obj\Debug\LinqObjects.pdb
